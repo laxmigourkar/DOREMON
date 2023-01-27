@@ -1,0 +1,18 @@
+update
+install git
+mkdir test
+cd test
+git init
+git remote add origin ssh key copy
+nano try1.txt //this is first commit.
+git status
+git add *
+git commit -m "this first commit"
+git config --global --edit
+git commit -m "this is first commit"
+git push origin master
+ssh-keygen enter enter enter
+cat /home/shuhari/.ssh/id_rsa.pub
+setting ssh-keygen ...........new key
+
+
