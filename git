@@ -15,7 +15,6 @@ ssh-keygen enter enter enter
 cat /home/shuhari/.ssh/id_rsa.pub
 setting ssh-keygen ...........new key
 test copy this ssh key
-git push origin master
 git commit -m "this ia my pc"
 git pull origin master
 git pull origin master --allow-unrelated-histories
