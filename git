@@ -22,6 +22,9 @@ git pull origin master --allow-unrelated-histories
 git commit -m "this is my pc"
 git pull origin master
 ls
+git commit -m "this is my"
+git push origin master
+go to repo check 2 files are created
 
 
 
